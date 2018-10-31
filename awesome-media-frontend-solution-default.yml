@@ -3,3 +3,6 @@ api:
     path: /
   services:
     url: http://localhost:9999/awesome-media 
+    
+    
+name: hyerim2
